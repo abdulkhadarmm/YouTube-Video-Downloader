@@ -74,7 +74,16 @@ On first-time Scoop install, you may need to run:
 ```bash
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
+
 If you see command not found errors, make sure Scoop's `shims` directory is added to your PATH.
+
+## 🧑‍💻 How to Use
+1. Enter a YouTube URL into the input field.
+2. Click "Fetch Formats" to retrieve available download formats (e.g., 360p, 720p, 1080p).
+3. Select a format of video and audio from the displayed list.
+4. Wait for the download and automatic merge of video and audio streams.
+5. Choose where to save the final merged video when asked.
+6. The final video will be saved as .mp4 at your selected location.
 
 ## 🖼️ Screenshot
 
